@@ -19,3 +19,5 @@ Enable RBAC and permission in setttings
 JwtAuthenticationConverter
 
 BearerTokenAuthenticationFilter
+
+https://auth0.com/docs/connections/social/devkeys
