@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../WuhanIT/itneitui-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../WuhanIT/letshunting-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../abp-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../auth0-spring-security5-api-sample/01-Authorization-MVC" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/adaptor-eventhub-spike" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/core-customer-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/core-delivery-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/core-inventory-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/core-order-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/core-plant-inventory-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/core-product-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/datahub-replication" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/dummy-o9" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/eventhub-sender" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/internal-consumer-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/inventory-trial-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/jenkins-share-libs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/o9-adaptor-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/o9-integration-adapter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/odataclient" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/platform-service-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../exxonmobil/spring-cloud-stream-event-hub-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../for-job/kubernetes-spring-cloud-order-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../spring-security-multiple-httpsecurity-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../www.legulegu.com/data.legulegu.com" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../www.legulegu.com/legulegu.com" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/inventory-trial-service (1)" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="801" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="01-Authorization-MVC.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.auth0.example.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
