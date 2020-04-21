@@ -15,7 +15,7 @@ const ExternalApi = () => {
     try {
       const token = await getTokenSilently();
 
-      const response = await fetch(`${apiOrigin}/api/private`, {
+      const response = await fetch(`${apiOrigin}/api/private-scoped`, {
         headers: {
           Authorization: `Bearer ${token}`
         }
