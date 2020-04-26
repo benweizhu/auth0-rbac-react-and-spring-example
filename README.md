@@ -26,4 +26,6 @@ JwtAuthenticationConverter
 
 BearerTokenAuthenticationFilter
 
-https://auth0.com/docs/connections/social/devkeys
+https://auth0.com/docs/connections/social/devkeys for social connection(socail account login)
+
+**Remember check out the example reamde in each project folder for configuration **
