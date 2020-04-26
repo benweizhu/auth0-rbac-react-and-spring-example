@@ -1,6 +1,6 @@
 # spring-auth0-example
 
-Reference:
+**Reference:**
 
 https://auth0.com/docs/getting-started/the-basics
 
@@ -15,6 +15,12 @@ Add permission(scope), be careful with the naming read:messages, in java
 Add role
 
 Enable RBAC and permission in setttings
+
+**Represent Multiple APIs Using a Single Logical API**
+
+https://community.auth0.com/t/access-tokens-with-multiple-audiences/9911
+
+**About Spring API side implementation**
 
 JwtAuthenticationConverter
 
