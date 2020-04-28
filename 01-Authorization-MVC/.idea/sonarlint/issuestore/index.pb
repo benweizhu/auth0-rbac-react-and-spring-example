@@ -9,8 +9,6 @@ o
 ?src/main/java/com/auth0/example/security/AudienceValidator.java,1/9/19711dc4365441e064193280dee83623653426b6
 X
 (src/main/java/com/auth0/example/App.java,d/5/d5468b7e6a05c5b2951012b5bb79105539ae232f
-†
-Vsrc/main/java/com/auth0/example/security/JwtPermissionGrantedAuthoritiesConverter.java,e/b/eb36b5fbf0e5984f68777d1e334c2adbc5208feb
 m
 =src/main/java/com/auth0/example/controller/APIController.java,c/a/ca74dfba5c77a7bae907b0c59ae9a5b990a10956
 l

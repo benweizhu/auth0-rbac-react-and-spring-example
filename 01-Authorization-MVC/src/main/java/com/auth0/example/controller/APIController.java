@@ -6,6 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.security.Principal;
+
 /**
  * Handles requests to "/api" endpoints.
  *
@@ -26,7 +28,7 @@ public class APIController {
   }
 
   @GetMapping(value = "/private-scoped")
-  public Message privateScopedEndpoint() {
+  public Message privateScopedEndpoint(Principal principal) {
     return new Message("All good. You can see this because you are Authenticated with a Token granted the 'read:messages' scope");
   }
 }
